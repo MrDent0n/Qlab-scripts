@@ -1,0 +1,8 @@
+tell application "Spotify"
+	activate
+end tell
+
+--restore focus Qlab
+tell application "QLab"
+	activate
+end tell
