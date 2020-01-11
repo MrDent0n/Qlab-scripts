@@ -1,5 +1,5 @@
 tell application "Spotify"
-	set sound volume to 100
+	set sound volume to 100 -- Set the value to normalize spotify to other tracks in Qlab
 	set housetrack to "spotify:playlist:<playlist-URI>"
 	play track housetrack
 end tell
