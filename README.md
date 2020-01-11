@@ -1,5 +1,4 @@
 # Qlab-scripts
-===========================
 
 Here is some simple code examples that you can use to do simple tasks like start and stop a playlist in spotify. I will upload some more advanced scripts like creating a cue list with multiple tracks and start them using timecodes when i have the time.
 
