@@ -1,5 +1,5 @@
 tell application "Spotify"
-	set sound volume to 30
+	set sound volume to 100
 	set housetrack to "spotify:playlist:<playlist-URI>"
 	play track housetrack
 end tell
